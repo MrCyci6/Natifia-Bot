@@ -1,0 +1,57 @@
+{
+	"bot": {
+		"token": "MTE5ODU3MjI3Nzc4OTM2ODM1MA.GcW55X.PnVI_G-7xC9305OyiPEy8e5Cqeh-5Cr0ARb3NA",
+		"id": "1210941176518152272",
+		"secretId": "Bqaw7TM5RYn3FU72C_qsTuHxf56e4UrY",
+		"port": 1339,
+		"callbackUrl": "http://natifia.mrcyci6.xyz:1339/auth/discord/callback",
+		"scope": ["identify"],
+		"status": "play.natifia.fr",
+		"statusType": "Competing",
+		"name": "Natifia"
+	},
+
+	"embed": {
+		"color": "#00ac05"
+	},
+
+	"owners": [
+		"1187442455268831232",
+		"1187447014619881585",
+		"1033073600808370256",
+		"653301133766295553"
+	],
+
+	"server": {
+		"id": "1198231265300725770",
+		"soutien_status": ".gg/natifia",
+		"ip": "play.natifia.fr",
+		"name": "Natifia",
+		"year": "2024"
+	},
+
+	"roles": {
+		"joueur": "1198234160624578620",
+		"staff": "1198237949746229319",
+		"soutien": "1198233666627850361"
+	},
+
+	"channels": {
+		"bienvenue": "1198239144091062373",
+		"suggestion": "1198256490113405078",
+		"logs": "1210942322850668625",
+		"automention": [
+			""
+		],
+		"id_members": "1210941761464045572",
+		"name_members": "👥 {count} Membres"
+	},
+
+	"categories": {
+		"ticket": "1198238549770772591"
+	},
+
+	"messages": {
+		"noperm": ":x: Tu ne peux pas faire ça !"
+	}
+}
